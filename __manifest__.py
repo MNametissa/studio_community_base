@@ -18,7 +18,6 @@
         web_enterprise module.
     ''',
     'author': 'MNametissa',
-    'website': 'https://www.odoo.com',
     'depends': ['web', 'base'],
     'data': [],
     'assets': {

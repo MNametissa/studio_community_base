@@ -6,7 +6,7 @@
         We don't inherit from web.NavBar since the structure is different.
         This provides a simple template that web_studio can extend.
     -->
-    <t t-name="web_enterprise.EnterpriseNavBar" owl="1">
+    <t t-name="studio_community_base.EnterpriseNavBar" owl="1">
         <header class="o_navbar" t-ref="root">
             <nav class="o_main_navbar" data-command-category="navbar" t-ref="nav">
                 <!-- Menu toggle for mobile/Studio compatibility -->

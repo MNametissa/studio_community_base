@@ -116,4 +116,4 @@ export class EnterpriseNavBar extends NavBar {
     }
 }
 
-EnterpriseNavBar.template = "web_enterprise.EnterpriseNavBar";
+EnterpriseNavBar.template = "studio_community_base.EnterpriseNavBar";

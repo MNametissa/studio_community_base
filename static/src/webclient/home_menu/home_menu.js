@@ -218,7 +218,7 @@ export class HomeMenu extends Component {
     }
 }
 
-HomeMenu.template = "web_enterprise.HomeMenu";
+HomeMenu.template = "studio_community_base.HomeMenu";
 HomeMenu.props = {
     apps: {
         type: Array,

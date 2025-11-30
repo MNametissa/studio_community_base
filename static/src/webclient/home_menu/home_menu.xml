@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <templates xml:space="preserve">
 
-<t t-name="web_enterprise.HomeMenu" owl="1">
+<t t-name="studio_community_base.HomeMenu" owl="1">
     <div class="o_home_menu h-100 overflow-auto">
         <div class="container">
             <input t-ref="input" type="text" class="o_search_hidden visually-hidden w-auto" t-on-input="_onInputSearch" t-on-blur="_onInputBlur"/>

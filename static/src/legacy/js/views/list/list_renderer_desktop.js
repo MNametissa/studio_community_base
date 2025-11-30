@@ -1,4 +1,4 @@
-odoo.define('web_enterprise.ListRenderer', function (require) {
+odoo.define('studio_community_base.ListRenderer', function (require) {
     "use strict";
 
     /**
